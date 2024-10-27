@@ -1,6 +1,6 @@
 # test1
 
-A new Flutter project.
+A new Flutter supermarket project.
 
 ## Getting Started
 
